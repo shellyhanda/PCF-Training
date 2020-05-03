@@ -1,0 +1,11 @@
+https://rx-m-cf.s3-us-west-1.amazonaws.com/rx-m-microservices-foundation.pdf
+
+https://rx-m-cf.s3-us-west-1.amazonaws.com/rx-m-microservices-lab-01.pdf
+
+https://rx-m-cf.s3-us-west-1.amazonaws.com/rx-m-microservices-lab-01.md
+
+https://rx-m-cf.s3-us-west-1.amazonaws.com/rx-m-microservices-lab-02.pdf
+msa.pem
+msa.ppk
+
+rendy abernethy

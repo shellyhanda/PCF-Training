@@ -1,0 +1,11 @@
+{
+"name": "cftest",
+"version": "0.0.1",
+"author": "FredFlintstone",
+"dependencies": {
+"express": "3.4.8"
+},
+"engines": {
+"node": "12.9.1"
+}
+}
